@@ -1,6 +1,6 @@
 # Udacity Annotations
 
-This repository contains a python notebook that helps to review annotations made for Udacity.
+This repository contains a python notebook that helps to review annotations from udacity dataset
 
 ## Dataset's Structure:
 
